@@ -1,0 +1,18 @@
+.FrontSpecify_show-default * {
+	FONT-SIZE: 12px; WORD-BREAK: break-all
+}
+.FrontSpecify_show-default .content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+.FrontSpecify_show-default .content H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 1em; COLOR: #7b9011; LINE-HEIGHT: 1.5em; PADDING-TOP: 1em; TEXT-ALIGN: left
+}
+.FrontSpecify_show-default .content .imgbox {
+	TEXT-ALIGN: center
+}
+.FrontSpecify_show-default .content IMG {
+	BORDER-RIGHT: #6c8007 1px solid; BORDER-TOP: #6c8007 1px solid; BORDER-LEFT: #6c8007 1px solid; BORDER-BOTTOM: #6c8007 1px solid
+}
+.FrontSpecify_show-default .style1 {
+	MARGIN-BOTTOM: 5px
+}

@@ -1,0 +1,54 @@
+.mtDropdownMenu {
+	LEFT: -1000px;
+	OVERFLOW: hidden;
+	POSITION: absolute;
+	TOP: -1000px;
+	margin-top: 4px;
+
+}
+.mtDropdownMenu .content {
+	POSITION: absolute
+}
+.mtDropdownMenu .items {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; Z-INDEX: 2; LEFT: 0px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; POSITION: relative; TOP: 0px
+}
+.top .items {
+	color: #FFFFFF;
+
+}
+.mtDropdownMenu .item {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; CURSOR: hand; COLOR: #4a4b4b; BORDER-BOTTOM: medium none; TEXT-DECORATION: none
+}
+.mtDropdownMenu .background {
+	Z-INDEX: 5; FILTER: alpha(opacity=85); LEFT: 0px; POSITION: absolute; TOP: 0px; moz-opacity: .8
+}
+.mtDropdownMenu .shadowRight {
+	Z-INDEX: 3; FILTER: alpha(opacity=40); WIDTH: 2px; POSITION: absolute; TOP: 3px; moz-opacity: .4
+}
+.mtDropdownMenu .shadowBottom {
+	Z-INDEX: 1; FILTER: alpha(opacity=40); LEFT: 3px; POSITION: absolute; HEIGHT: 2px; moz-opacity: .4
+}
+.mtDropdownMenu .hover {
+	BACKGROUND: #FFFFFF; COLOR: #FF9900}
+.mtDropdownMenu .item IMG {
+	MARGIN-LEFT: 12pxs
+}
+
+.tt_16 {
+	font-family: "ºÚÌå";
+	font-size: 16px;
+	color: #333333;
+}
+table {
+	font-size: 12px;
+}
+.tongyong {
+	font-size: 9pt;
+	color: #6f6f6f;
+}
+.protext {
+	font-size: 9pt;
+	line-height: 22px;
+	color: #6F6F6F;
+	padding-top: 8px;
+}

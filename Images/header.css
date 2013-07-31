@@ -1,0 +1,45 @@
+body
+{
+	font-family: "µ¸¿ò, Dotum,Seoul, Verdana, Geneva, Arial, Helvetica, sans-serif";
+	font-size: 12px;
+
+}
+img { border:0;}
+
+#f_line {height:1px; background-color:#ebebeb;}
+
+#f_footer { padding:15px 0 15px 0;background-color:#FFFFFF;}
+#f_guide { width:905px; }
+#f_menu { clear:left;}
+#f_menu ul{ list-style:none; margin:0;clear:left;}
+#f_menu li{ float:left;}
+#f_copyright { }
+
+#f_link {
+	position:absolute;
+	width:158px;
+	height:250px;
+	font-size:11px;
+	border:1px solid #DBDBDB;
+	background-color:#FFFFFF;
+	overflow:auto;
+	scrollbar-face-color:#FFFFFF;
+	scrollbar-highlight-color: #E5E5E5;
+	scrollbar-3dlight-color: #FFFFFF;
+	scrollbar-shadow-color: #E5E5E5;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-arrow-color: #B4B4B4;
+}
+#f_link ul{list-style:none;margin:5px 0 5px 0;text-align:left;}
+#f_link li{line-height:18px;}
+#f_link h2{text-align:left;
+	width:130px;
+	margin:-1px 0 0 0;padding:6px 0 6px 0;
+	border-top:1px solid #DBDBDB;
+	border-bottom:1px solid #DBDBDB;
+}
+#f_link A:link	{color:#A0A0A0;text-decoration: none;}
+#f_link A:visited	{color:#A0A0A0;text-decoration: none;}
+#f_link A:active	{color:#A0A0A0;text-decoration: none;}
+#f_link A:hover	{color:#555555;text-decoration: none;}

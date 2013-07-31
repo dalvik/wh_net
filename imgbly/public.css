@@ -1,0 +1,66 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #6f6f6f; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+TABLE {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+DIV {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+TEXTAREA {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.list TD {
+	BACKGROUND: url(dolt01.gif) repeat-x left bottom; HEIGHT: 27px
+}
+.b_list TD {
+	BACKGROUND: url(dolt01.gif) repeat-x left bottom; HEIGHT: 23px
+}
+.lNav1 {
+	PADDING-LEFT: 49px; COLOR: #666666
+}
+.lNav {
+	PADDING-LEFT: 49px; COLOR: #666666
+}
+.lNav1 {
+	FONT-WEIGHT: bold; BACKGROUND: url(lNav1.gif); COLOR: #666666; PADDING-TOP: 3px; HEIGHT: 29px
+}
+.lNav {
+	BACKGROUND: url(lNav0.gif); HEIGHT: 32px
+}
+.foot TD {
+	COLOR: #888888
+}
+.foot A {
+	COLOR: #888888
+}
+.loc A {
+	COLOR: #9f9f9f
+}
+.btn {
+	BORDER-RIGHT: #900 0px solid; BORDER-TOP: #900 0px solid; BORDER-LEFT: #900 0px solid; COLOR: #fff; PADDING-TOP: 3px; BORDER-BOTTOM: #900 0px solid; BACKGROUND-COLOR: #ccc
+}
+INPUT {
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; BORDER-LEFT: #b7b7b7 1px solid; BORDER-BOTTOM: #b7b7b7 1px solid; BACKGROUND-COLOR: #fff
+}
+TEXTAREA {
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; BORDER-LEFT: #b7b7b7 1px solid; BORDER-BOTTOM: #b7b7b7 1px solid; BACKGROUND-COLOR: #fff
+}
+SELECT {
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; BORDER-LEFT: #b7b7b7 1px solid; BORDER-BOTTOM: #b7b7b7 1px solid; BACKGROUND-COLOR: #fff
+}
+.pro {
+	BACKGROUND: url(p_dolt.gif) repeat-x left bottom; HEIGHT: 28px
+}
+.listc {
+	BACKGROUND: url(dolt01.gif) repeat-x left bottom; HEIGHT: 40px
+}

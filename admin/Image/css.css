@@ -1,0 +1,39 @@
+A {
+	FONT-SIZE: 9pt; COLOR: #333333; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+DIV {
+	FONT-SIZE: 9pt
+}
+FORM {
+	FONT-SIZE: 9pt
+}
+P {
+	FONT-SIZE: 9pt
+}
+TD {
+}
+BODY {
+	FONT-SIZE: 9pt;
+	background:#CBDFFE;
+}
+BODY {
+	SCROLLBAR-HIGHLIGHT-COLOR: buttonface; SCROLLBAR-SHADOW-COLOR: buttonface; SCROLLBAR-3DLIGHT-COLOR: buttonhighlight; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: buttonshadow
+}
+TD {
+	FONT: 9pt/160% "宋体"; COLOR: #000000
+}
+.table-zuoyou {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+.wenbenkuang {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; COLOR: #333333; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: "宋体"
+}
+.go-wenbenkuang {
+	BORDER-RIGHT: #a2a2a2 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 9pt; PADDING-BOTTOM: 1px; BORDER-LEFT: #ffffff 1px solid; CURSOR: hand; COLOR: #333333; PADDING-TOP: 1px; BORDER-BOTTOM: #a2a2a2 1px solid; FONT-FAMILY: "宋体"; HEIGHT: 19px; BACKGROUND-COLOR: #eeeeee
+}
+.unnamed1 {
+	BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc
+}
